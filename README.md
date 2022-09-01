@@ -1,5 +1,5 @@
 # 7/11 Entertainment Data Analysis
-![food-brand-kettle-corn-flavor-junk](https://user-images.githubusercontent.com/98137996/187810014-7e7168d1-3047-429c-bff9-f9a4c35ba180.jpg)
+![1058237-200](https://user-images.githubusercontent.com/98137996/187810512-4d7a1e33-5adc-4fca-82f6-d47ad09ab8d7.png)
 
  I'll be analyzing available data from a friend's company to derive key insights, and make data-driven business decision to improve sales.
  
